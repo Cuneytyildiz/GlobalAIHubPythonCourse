@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 ![](img/logo.png)
 
-**Course Date:** 15.02.2021  
+**Course Date:** 19.02.2021  
 **Name:** Cüneyt  
 **Surname:** Yıldız
 **Email:** cuneytyildz@gmail.com  
@@ -20,5 +20,7 @@ Some python libraries
 ---
 
 ### Certification
+![](img/30458223229414.png)
 ![](img/certificate.png)
+
 
